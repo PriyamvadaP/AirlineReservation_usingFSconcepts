@@ -1,0 +1,16 @@
+*11|BAN|HYD|3:00|7:00|2500|
+*234|Chennai|Bangalore|2|4|4500|
+*21|Chennai|Bangalore|1|1|1|
+12345|Bangalore|Delhi|02:00|08:00|2500|
+9876|Hyderabad|Kochi|2:00|4:00|3500|
+*3902|Kochi|Mumbai|04:00|10:00|7000|
+95748|Vizag|Mumbai|10:00|3:00|8000|
+73177|Mumbai|Kolkata|16:00|22:00|1200|
+99083|Bangalore|Ahmedabad|19:00|23:00|1400|
+94356|Vizag|Bangalore|2:00|8:00|1200|
+*76543|Chennai|Bangalore|12:00|3:00|5600|
+*61075|Chennai|Kochi|07:00|08:00|1817|
+36549|Bangalore|Ahmedabad|11:30|7:00|4005|
+*ss74123|Goa|Lucknow|14:00|19:00|2825|
+*5879|Goa|Lucknow|7:00|9:00|1452|
+*5879|Goa|Lucknow|6:00|9:00|1288|
