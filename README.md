@@ -1,4 +1,4 @@
-# Airline Reservation System
+# Airline Reservation System (University Mini-Project)
 #### Using File Structure concepts like Indexing 
 The Airline Reservation System project aims to implement indexing concepts to enhance the efficiency of insertion, search, and traversal operations on airline management record files. The purpose of this system is to provide a fast and flexible computerized solution for managing flight information effectively. It utilizes file structures techniques and is programmed in Java, making it compatible with various platforms and terminals.
 
